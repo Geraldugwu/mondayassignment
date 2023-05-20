@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(229, 255, 0);
+
+}
+h1{
+    color: white;
+}
+h2{
+    color: deeppink;
+}
+h3{
+    color: crimson;
+}
+image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+p{
+    color: white;
+}
+hr{
+    border: 2px solid;
+    color: red;
+}
+span{
+    color: blue;
+}
+.introduction{
+    color: black;
+}
+.explanation{
+    color: black;
+}
+.top{
+    background-color: black;
+}
+form{
+    background-color: darkseagreen;
+    font-size: medium;
+    font-weight: 20px;
+}
+button{
+    color: blue;
+    border: 50px;
+}
